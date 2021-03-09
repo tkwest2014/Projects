@@ -1,0 +1,83 @@
+/*Add style for main header*/
+h1{
+  text-align: center;
+  margin-right: 250px;
+}
+
+/*Add style for the About section*/
+.about p{
+  margin-right: 250px;
+}
+
+.about h2{
+  text-align: left;
+}
+
+/*Add style for the headers*/
+.color, .text, .image{
+  border: 2px solid black;
+  background: #D3D3D3;
+  margin-bottom: 0px;
+  margin-right: 250px
+}
+
+/*Add style for box contents*/
+h2{
+  text-align: center;
+}
+
+.color1, .text1, .image1{
+  border: 2px solid black;
+  margin-right: 250px;
+}
+
+.p1{
+  color: #D2B48C;
+  display: inline-block;
+  margin-right: 100px;
+}
+
+.p2{
+  color: #2F4F4F;
+  display: inline-block;
+}
+
+.p3{
+  color: #4682B4;
+  display: inline-block;
+  margin-left: 100px;
+}
+
+.p4{
+  font-size: 25px;
+  font-family: cursive;
+  display: inline-block;
+  margin-right: 100px;
+  color: #2F4F4F;
+}
+
+.p5{
+  font-size: 15px;
+  font-family: noteworthy;
+  display: inline-block;
+  color: #2F4F4F;
+}
+
+.p6{
+  font-size: 15px;
+  font-family: Helvetica;
+  display: inline-block;
+  color: #2F4F4F;
+  margin-left: 100px;
+}
+
+.canada{
+  display: inline-block;
+  margin: 25px, 200px;
+}
+
+figcaption{
+  color: #4682B4
+  font-size: 15px;
+  font-family: Helvetica;
+}
