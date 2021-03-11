@@ -1,0 +1,40 @@
+
+/*Format Body*/
+body{
+  font-family: Georgia;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+/*Format Headers*/
+h1{
+  color: Azure;
+}
+
+h2{
+  font-size: 30px;
+}
+
+.header{
+  background: CornflowerBlue;
+  text-align: center;
+}
+
+.about{
+  font-size: 20px;
+  opacity: 0.8;
+  color: Azure;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.image{
+  width: 400px;
+  margin-top: 50px;
+}
+
+
+/*Format Content*/
+.title{
+  font-weight: bold;
+}
